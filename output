@@ -1,0 +1,28 @@
+--- Todo List Menu ---
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 1
+Enter task to add: Buy groceries
+Task added!
+
+--- Todo List Menu ---
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 1
+Enter task to add: Finish report
+Task added!
+
+--- Todo List Menu ---
+1. Add Task
+2. Remove Task
+3. View Tasks
+4. Exit
+Enter your choice: 3
+
+--- Your Tasks ---
+1. Buy groceries
+2. Finish report
